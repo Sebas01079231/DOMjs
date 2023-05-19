@@ -3,7 +3,7 @@
 
     El DOM se compone de un árbol de nodos, donde cada nodo representa un elemento en la página, como un elemento HTML (como un párrafo o un enlace) o un nodo de texto. Los desarrolladores pueden utilizar JavaScript para acceder a estos nodos y manipular sus propiedades, como el contenido de un elemento, los atributos, los estilos y los eventos.
 
-Acceder a elementos HTML con document ->
+# Acceder a elementos HTML con document ->
     Se puede acceder a elementos del html con el objeto document, que es basicamnte todo del html que tenemos en nuetra pagina web. En primeras instancias ocupamos una variable y se la asignamos al objeto document, de esa manera podemos acceder a los diferentes elementos del html, con la siguiente sintaxis:
 
         let elemento;

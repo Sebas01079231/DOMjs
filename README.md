@@ -76,10 +76,10 @@
 
     add agrega y remove quita.
 
-traversing the DOM ->
-    Es la forma en la que puedes llegar a un determinado elemento apartir de los diferentes nodos, como etiquetas padre, hijos, hermanos, etc.
+# traversing the DOM ->
+   Es la forma en la que puedes llegar a un determinado elemento apartir de los diferentes nodos, como etiquetas padre, hijos, hermanos, etc.
 
-Algunas propiedades y metodos ->
+# Algunas propiedades y metodos ->
 
     textContent -> muestra el texto y puedo editarlo
     classList.add() -> agregar clase
